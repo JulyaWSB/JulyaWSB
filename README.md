@@ -23,8 +23,8 @@
 Atualmente, estou aprofundando meus conhecimentos em **Programação Orientada a Objetos (POO)** e **desenvolvimento web**.  
 
 ## 📫 Entre em contato  
-- 💼 Linkedln: [Julya Werneck](https://www.linkedin.com/in/julya-werneck-b166892bb/) 
-- 📧 E-mail: *julyawernecksb@gmail.com*  
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](julyawernecksb@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/julya-werneck-b166892bb/)  
 
 Vamos construir algo incrível juntos! 🚀  
 
