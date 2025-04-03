@@ -27,6 +27,9 @@ Atualmente, estou aprofundando meus conhecimentos em **Programação Orientada a
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/julya-werneck-b166892bb/)  
 
 Vamos construir algo incrível juntos! 🚀  
+ 
+![Snake animation](https://github.com/SEU-USUARIO/SEU-REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
