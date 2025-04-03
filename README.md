@@ -28,7 +28,8 @@ Atualmente, estou aprofundando meus conhecimentos em **Programação Orientada a
 
 Vamos construir algo incrível juntos! 🚀  
  
-![Snake animation](https://github.com/JulyaWSB/JulyaWSB/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JulyaWSB/JulyaWSB/blob/output/snakecommit.svg)
+
 
 
 
