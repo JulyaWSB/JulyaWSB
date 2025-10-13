@@ -36,7 +36,7 @@
 
 
 ## 🌱 O que estou aprendendo?  
-Atualmente, estou aprofundando meus conhecimentos em **Tailwind CSS**. 
+Atualmente, estou aprofundando meus conhecimentos em **Tailwind CSS && Angular**. 
 
 ## 📫 Entre em contato  
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](julyawernecksb@gmail.com)
